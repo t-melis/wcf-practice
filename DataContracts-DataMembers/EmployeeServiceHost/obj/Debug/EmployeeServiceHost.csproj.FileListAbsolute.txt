@@ -1,0 +1,10 @@
+C:\Users\thano\OneDrive\Υπολογιστής\RELATIONAL\Practice\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe.config
+C:\Users\thano\OneDrive\Υπολογιστής\RELATIONAL\Practice\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe
+C:\Users\thano\OneDrive\Υπολογιστής\RELATIONAL\Practice\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.pdb
+C:\Users\thano\OneDrive\Υπολογιστής\RELATIONAL\Practice\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\thano\OneDrive\Υπολογιστής\RELATIONAL\Practice\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\thano\OneDrive\Υπολογιστής\RELATIONAL\Practice\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.exe
+C:\Users\thano\OneDrive\Υπολογιστής\RELATIONAL\Practice\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.pdb
+C:\Users\thano\OneDrive\Υπολογιστής\RELATIONAL\Practice\EmployeeServiceHost\bin\Debug\EmployeeService.dll
+C:\Users\thano\OneDrive\Υπολογιστής\RELATIONAL\Practice\EmployeeServiceHost\bin\Debug\EmployeeService.pdb
+C:\Users\thano\OneDrive\Υπολογιστής\RELATIONAL\Practice\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csproj.CopyComplete
