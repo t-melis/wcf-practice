@@ -4,3 +4,9 @@ C:\Users\thano\OneDrive\Υπολογιστής\RELATIONAL\Practice\EmployeeServi
 C:\Users\thano\OneDrive\Υπολογιστής\RELATIONAL\Practice\EmployeeService\obj\Debug\EmployeeService.csproj.CoreCompileInputs.cache
 C:\Users\thano\OneDrive\Υπολογιστής\RELATIONAL\Practice\EmployeeService\obj\Debug\EmployeeService.dll
 C:\Users\thano\OneDrive\Υπολογιστής\RELATIONAL\Practice\EmployeeService\obj\Debug\EmployeeService.pdb
+C:\Users\thano\OneDrive\Υπολογιστής\RELATIONAL\Practice\DataContracts-DataMembers\EmployeeService\bin\Debug\EmployeeService.dll
+C:\Users\thano\OneDrive\Υπολογιστής\RELATIONAL\Practice\DataContracts-DataMembers\EmployeeService\bin\Debug\EmployeeService.pdb
+C:\Users\thano\OneDrive\Υπολογιστής\RELATIONAL\Practice\DataContracts-DataMembers\EmployeeService\obj\Debug\EmployeeService.csprojResolveAssemblyReference.cache
+C:\Users\thano\OneDrive\Υπολογιστής\RELATIONAL\Practice\DataContracts-DataMembers\EmployeeService\obj\Debug\EmployeeService.csproj.CoreCompileInputs.cache
+C:\Users\thano\OneDrive\Υπολογιστής\RELATIONAL\Practice\DataContracts-DataMembers\EmployeeService\obj\Debug\EmployeeService.dll
+C:\Users\thano\OneDrive\Υπολογιστής\RELATIONAL\Practice\DataContracts-DataMembers\EmployeeService\obj\Debug\EmployeeService.pdb
